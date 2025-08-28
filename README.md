@@ -1,5 +1,3 @@
-
-
 # 🧹 Discord Cleanup Bot By NAINOO
 
 A Discord bot built with **discord.py** that can:
@@ -18,7 +16,6 @@ Use only if you are the server owner or have permission to do so.
 - Confirmation prompt before deleting roles.
 - Requires Administrator permissions for safety.
 
----
 
 ## 📦 Requirements
 
