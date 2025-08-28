@@ -1,4 +1,3 @@
-=
 
 ````markdown
 # 🧹 Discord Cleanup Bot By NAINOO
