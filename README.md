@@ -1,5 +1,5 @@
 
-````markdown
+
 # 🧹 Discord Cleanup Bot By NAINOO
 
 A Discord bot built with **discord.py** that can:
@@ -10,7 +10,6 @@ A Discord bot built with **discord.py** that can:
 ⚠️ **Warning:** These actions are destructive and **cannot be undone**.  
 Use only if you are the server owner or have permission to do so.
 
----
 
 ## 📌 Features
 
