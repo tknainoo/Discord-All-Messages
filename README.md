@@ -97,16 +97,4 @@ python-dotenv==1.0.1   # optional, for loading token from .env
   !delusermsg @username
   ```
 
----
 
-## 👨‍💻 Author
-
-Made with ❤️ using **discord.py**.
-For educational and server maintenance use only.
-
-```
-
----
-
-👉 Do you want me to also prepare the **full `bot.py` code** that already includes both commands (`!delroles` + `!delusermsg`) so you can copy-paste and run immediately?
-```
